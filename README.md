@@ -11,9 +11,12 @@
 本项目已在Python3.7下测试通过。
 ### 如果本项目对您有所帮助，欢迎（请）关注我的知乎账户zhihu：[风和人海](https://www.zhihu.com/people/hotpotpot)
 ### <font color='red'> 如果这个项目在研究生学习、工作和生活中帮到您了，**不妨请我喝一杯咖啡或者吃一碗面条~作者在这里谢谢啦！！！**</font>
-![image](https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/coffee.jpg){:height="200px" width="200px"}
 
-![image](https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/wechat.jpg){:height="200px" width="200px"}
+<img src="https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/coffee.jpg" height="200px" width="200px">
+
+<img src="https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/wechat.jpg" height="200px" width="200px">
+
+
 
 ### 并为本项目点亮小星星😁⭐️
 > 注意：由于开源时这个项目的改版也是我的课程设计，因此代码部分做了混淆处理，预计将在2022年1月后开源明文代码
