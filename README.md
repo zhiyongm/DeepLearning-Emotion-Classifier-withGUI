@@ -10,7 +10,8 @@
 目前可针对5种表情（Angry,Happy,Neutral,Sad,Surprise）进行识别。  
 本项目已在Python3.7下测试通过。
 ### 如果本项目对您有所帮助，欢迎（请）关注我的知乎账户zhihu：[风和人海](https://www.zhihu.com/people/hotpotpot)
-<p sytle:"color:red">如果这个项目在研究生学习、工作和生活中帮到您了，**不妨请我喝一杯咖啡或者吃一碗面条~作者在这里谢谢啦！！！**</p>
+
+<font color="red">如果这个项目在研究生学习、工作和生活中帮到您了，**不妨请我喝一杯咖啡或者吃一碗面条~作者在这里谢谢啦！！！**</font>
 
 <img src="https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/coffee.jpg" height="200px" width="200px">
 
