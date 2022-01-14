@@ -13,9 +13,7 @@
 
 ## 如果这个项目在研究生学习、工作和生活中帮到您了，**不妨请我喝一杯咖啡或者吃一碗面条~作者在这里谢谢啦！！！**
 
-<img src="https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/coffee.jpg" height="300px" width="300px">
-
-<img src="https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/wechat.jpg" height="400px" width="300px">
+<img src="https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/coffee.jpg" height="400px" width="400px">
 
 
 
