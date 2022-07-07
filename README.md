@@ -12,7 +12,7 @@
 ### 如果本项目对您有所帮助，欢迎（请）关注我的知乎账户zhihu：[风和人海](https://www.zhihu.com/people/hotpotpot)
 
 ## 如果这个项目在研究生学习、工作和生活中帮到您了，**不妨请我喝一杯咖啡或者吃一碗面条~作者在这里谢谢啦！！！**
-
+## 如果需要和作者交流项目，咨询问题，捐助30元及以上，即可凭付款记录发送邮件到calmsea01@outlook.com，可以得到及时回复和解答~
 <img src="https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/coffee.jpg" height="400px" width="400px">
 
 
