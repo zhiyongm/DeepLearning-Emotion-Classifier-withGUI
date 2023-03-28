@@ -13,7 +13,7 @@
 
 ## 如果这个项目在研究生学习、工作和生活中帮到您了，**不妨请我喝一杯咖啡或者吃一碗面条~作者在这里谢谢啦！！！**
 ## 如果需要即时和作者交流项目，咨询问题，请使用知乎付费咨询功能
-[咨询链接，我每天都会看知乎](https://www.zhihu.com/consult/people/724727566761476096?isMe=1&ab_signature=CiRBQkNleFRGX1lSVkxCWjQ2WlJnM2tSN1UyNTRlb2pKQkotRT0SIGEwNTQ1MWU5YTFjZTgxOGY5ZmZjYWFkMjdkOWVkZjM4GhEIARIGOC41Ny4wGgUxNTIyMA==)
+[知乎咨询本人链接，我每天都会看知乎](https://www.zhihu.com/consult/people/724727566761476096?isMe=1&ab_signature=CiRBQkNleFRGX1lSVkxCWjQ2WlJnM2tSN1UyNTRlb2pKQkotRT0SIGEwNTQ1MWU5YTFjZTgxOGY5ZmZjYWFkMjdkOWVkZjM4GhEIARIGOC41Ny4wGgUxNTIyMA==)
 
 
 <img src="https://github.com/zhiyongm/DeepLearning-Emotion-Classifier-withGUI/blob/master/imgs/coffee.jpg" height="200px" width="200px">
